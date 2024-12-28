@@ -1,4 +1,4 @@
-def input_matrix(row,columns):
+def input_matrix(rows,columns):
     matrix = []
     for i in range(row):
         row = []
